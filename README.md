@@ -22,9 +22,28 @@ A Windows Forms-based Recruitment Application for managing user authentication, 
 - Visual Studio
 - SQL Server (LocalDB or Express)
 
-## Screenshots
-![Login Page Screenshot](Online%20Recruitment%20Application/App%20Screens/Login.jpg)
-![Sign Up Page Screenshot](Online%20Recruitment%20Application/App%20Screens/Signup.jpg)
+# Online Recruitment Application Screenshots
+
+## Authentication
+![Login Page](Online%20Recruitment%20Application/App%20Screens/Login.jpg)  
+![Signup Page](Online%20Recruitment%20Application/App%20Screens/Sign%20up.jpg)  
+
+## Job Seeker Views
+![Jobseeker Signup](Online%20Recruitment%20Application/App%20Screens/Jobseeker%20Sign%20up.jpg) 
+![Jobseeker Home](Online%20Recruitment%20Application/App%20Screens/Jobseeker%20Home.jpg)  
+![Jobseeker Profile](Online%20Recruitment%20Application/App%20Screens/Jobseeker%20Profile.jpg)  
+![Available Jobs](Online%20Recruitment%20Application/App%20Screens/Available%20Jobs.jpg)
+![Jobseeker Applications](Online%20Recruitment%20Application/App%20Screens/Jobseeker%20Applications.jpg)  
+![Jobseeker Saved Jobs](Online%20Recruitment%20Application/App%20Screens/Jobseeker%20Saved%20Jobs.jpg)  
+
+## Employer Views
+![Employer Signup](Online%20Recruitment%20Application/App%20Screens/Employer%20Sign%20up.jpg) 
+![Employer Home](Online%20Recruitment%20Application/App%20Screens/Employer%20Home.jpg)   
+![Employer Profile](Online%20Recruitment%20Application/App%20Screens/Employer%20Profile.jpg)  
+![Employer Posted Jobs](Online%20Recruitment%20Application/App%20Screens/Employer%20Posted%20Jobs.jpg)  
+![Employer Applicants](Online%20Recruitment%20Application/App%20Screens/Employer%20Applicants.jpg)  
+![Post Job](Online%20Recruitment%20Application/App%20Screens/Post%20Job.jpg)  
+
 
 
 ## License
