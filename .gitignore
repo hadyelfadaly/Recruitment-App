@@ -1,0 +1,14 @@
+# Ignore Visual Studio cache and temp files
+.vs/
+*.user
+*.suo
+*.vspscc
+
+# Ignore build outputs
+Online Recruitment App/bin/
+Online Recruitment App/obj/
+
+# Ignore temporary files
+*.log
+*.tmp
+*.DS_Store
