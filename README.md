@@ -23,7 +23,8 @@ A Windows Forms-based Recruitment Application for managing user authentication, 
 - SQL Server (LocalDB or Express)
 
 ## Screenshots
-![Login Page Screenshot](Online Recruitment Application/App Screens/Login.jpg)
+![Login Page Screenshot](Online%20Recruitment%20Application/App%20Screens/Login.jpg)
+![Sign Up Page Screenshot](Online%20Recruitment%20Application/App%20Screens/Signup.jpg)
 
 
 ## License
