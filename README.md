@@ -12,7 +12,7 @@ A Windows Forms-based Recruitment Application for managing user authentication, 
 ## Getting Started
 1. Clone this repo.
 2. Create 'Recuritment' Database on you local SQL server.
-3. Excute the DDL and Sample Data Files in **ERD, DDL Script and Sample Dat** Folder.
+3. Excute the DDL and Sample Data Files in **ERD, DDL Script and Sample Data** Folder.
 4. Open the `.sln` file in Visual Studio.
 5. Configure your database connection string in `App.config`.
 6. Build and run the application.
