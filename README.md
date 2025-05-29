@@ -47,4 +47,4 @@ A Windows Forms-based Recruitment Application for managing user authentication, 
 
 
 ## License
-This project is licensed under the [MIT License](License).
+This project is licensed under the [MIT License](License.txt).
